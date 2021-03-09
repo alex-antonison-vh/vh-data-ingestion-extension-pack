@@ -21,6 +21,24 @@ This extension pack contains the following VS Code Extensions:
    1. ![vsix_install](images/vs_code_install_vsix.png)
 2. Once installed, you can uninstall and disable the extension pack from within VS Code.
 
+## Contribution
+
+### Set up
+
+1. Will need to install npm, see here [https://nodejs.org/en/](https://nodejs.org/en/)
+2. Then need to install the `vsce` utility.  See here for instructions [https://code.visualstudio.com/api/working-with-extensions/publishing-extension][https://code.visualstudio.com/api/working-with-extensions/publishing-extension]
+
+### Add Extensions
+
+1. Feel free to add packages to this Extension Pack.  You can do this by going to an extensions site and looking at the right pane for More Info for the Unique Identifier.
+   1. ![unique_id](images/extension_unique_id.png)
+2. Once you have that, you can add it to the [package.json](package.json) file in the `extensionPack` section.
+3. Once added, you can then run the following to regenerate the vsix file:
+
+       vsce package
+
+4. Once run, push up to GitHub.
+
 ## Future
 
 Consider deploying this to the VS Code Extension Store for more streamlined usage.
