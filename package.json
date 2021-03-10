@@ -25,6 +25,7 @@
         "ms-vscode-remote.remote-wsl", 
         "ms-vscode-remote.vscode-remote-extensionpack", 
         "streetsidesoftware.code-spell-checker", 
-        "yzhang.markdown-all-in-one"
+        "yzhang.markdown-all-in-one",
+        "Atlassian.atlascode"
     ]
 }
