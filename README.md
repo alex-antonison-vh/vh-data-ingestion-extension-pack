@@ -27,7 +27,7 @@ This extension pack contains the following VS Code Extensions:
 ### Set up
 
 1. Will need to install npm, see here [https://nodejs.org/en/](https://nodejs.org/en/)
-2. Then need to install the `vsce` utility.  See here for instructions [https://code.visualstudio.com/api/working-with-extensions/publishing-extension][https://code.visualstudio.com/api/working-with-extensions/publishing-extension]
+2. Then need to install the `vsce` utility.  See here for instructions [https://code.visualstudio.com/api/working-with-extensions/publishing-extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 
 ### Add Extensions
 
