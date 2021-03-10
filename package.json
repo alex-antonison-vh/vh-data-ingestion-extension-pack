@@ -1,7 +1,7 @@
 {
-    "name": "vh---data-ingestion---extension-pack",
+    "name": "vh-data-ingestion-extension-pack",
     "publisher":"aantonison",
-    "repository": "https://github.com/alex-antonison-vh/vh---data-ingestion---extension-pack",
+    "repository": "https://github.com/alex-antonison-vh/vh-data-ingestion-extension-pack",
     "displayName": "VH - Data Ingestion - Extension Pack",
     "description": "A VS Code Extension pack for managing VS Code extensions",
     "version": "0.0.1",
