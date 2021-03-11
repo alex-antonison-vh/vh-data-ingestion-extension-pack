@@ -26,6 +26,8 @@
         "ms-vscode-remote.vscode-remote-extensionpack", 
         "streetsidesoftware.code-spell-checker", 
         "yzhang.markdown-all-in-one",
-        "Atlassian.atlascode"
+        "Atlassian.atlascode",
+        "alefragnani.project-manager",
+        "vscode-icons-team.vscode-icons"
     ]
 }
