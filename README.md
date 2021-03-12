@@ -11,8 +11,8 @@ This extension pack contains the following VS Code Extensions:
 |Code Spell Checker|Helpful for catching typos|
 |Docker|Docker in VS Code|
 |Go|Go in VS Code|
-|Remote - SSH|Great for working within remote servers|
-|Remote - Containers|Great for working within docker containers|
+|Remote - SSH|Great for working with remote servers|
+|Remote - Containers|Great for working with docker containers|
 |Markdown All in One|Helps streamline writing markdown|
 |markdownlint|Extension that supports better markdown writing|
 |Jira and Bitbucket (Official)|Ties into Atlassian and helpful for streamlining development workflow|
