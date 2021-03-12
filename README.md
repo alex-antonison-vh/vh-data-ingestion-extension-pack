@@ -16,6 +16,8 @@ This extension pack contains the following VS Code Extensions:
 |Markdown All in One|Helps streamline writing markdown|
 |markdownlint|Extension that supports better markdown writing|
 |Jira and Bitbucket (Official)|Ties into Atlassian and helpful for streamlining development workflow|
+|Project Manager|Help for navigating different projects|
+|vscode-icons|Makes the VS Code File Browser easier to identify files|
 
 ## Usage
 
