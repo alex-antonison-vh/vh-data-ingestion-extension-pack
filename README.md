@@ -40,7 +40,3 @@ This extension pack contains the following VS Code Extensions:
        vsce package
 
 4. Once run, push up to GitHub.
-
-## Future
-
-Consider deploying this to the VS Code Extension Store for more streamlined usage.
