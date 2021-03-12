@@ -14,7 +14,7 @@ This extension pack contains the following VS Code Extensions:
 |Remote Development Extension Pack|Great for working within containers and servers|
 |Markdown All in One|Helps streamline writing markdown|
 |markdownlint|Extension that supports better markdown writing|
-|Jira and Bitbucket (Official)|Ties into Atlassian and helpful for streamlining branch creation|
+|Jira and Bitbucket (Official)|Ties into Atlassian and helpful for streamlining development workflow|
 
 ## Usage
 
